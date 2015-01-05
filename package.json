@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node-static": "^0.7.6",
+    "osc": "git://github.com/jacoscaz/osc.js",
+    "router": "^1.0.0-beta.2",
+    "ws": "^0.6.4"
+  }
+}

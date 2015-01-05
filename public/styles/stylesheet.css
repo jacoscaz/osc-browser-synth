@@ -1,0 +1,28 @@
+
+* {
+  box-sizing: border-box;
+}
+
+#controls {
+  position: absolute; 
+  top: 50%; 
+  left: 50%; 
+  margin: -100px 0 0 -300px;
+}
+
+.hidden {
+  display: none;
+}
+
+.switch {
+  width: 200px; 
+  height: 200px; 
+  border: 5px solid white; 
+  float: right; 
+  border-radius: 25px; 
+  background: #eeeeee;
+}
+
+.switch.active {
+  background: #87ceeb;
+}

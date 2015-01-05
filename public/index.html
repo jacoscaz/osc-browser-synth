@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link href="styles/stylesheet.css" rel="stylesheet" />
+  </head>
+  <body>
+
+  <div id="controls">
+
+    <!-- Frequency input field -->
+    <input type="number" class="hidden" data-type="knob"   data-address="/freq/x" />
+
+    <!-- Volume input field -->
+    <input type="number" class="hidden" data-type="knob"   data-address="/vol/x" />
+
+    <!-- Power input field -->
+    <input type="number" class="hidden" data-type="switch" data-address="/power/x" />
+
+    <!-- UI controls will generated from from the above input fields and apppended here -->
+
+  </div>
+    
+    <!-- jQuery -->
+    <script src="assets/jquery/jquery.min.js"></script>
+
+    <!-- jQuery Knob -->
+    <script src="assets/jquery/jquery.knob.min.js"></script>
+
+    <!-- Osc.js -->
+    <script src="assets/osc/osc-browser.min.js"></script>
+
+    <!-- Own scripts -->
+    <script src="scripts/osc.js"></script>
+
+  </body>
+</html>

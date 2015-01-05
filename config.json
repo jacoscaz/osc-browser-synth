@@ -1,0 +1,8 @@
+{
+  "httpPort": 7171,
+  "wsPort": 7172,
+  "oscUdpPort": 57121,
+  "oscUdpDevices": [
+    {"address": "192.168.1.68", "port": 8000}
+  ]
+}
