@@ -3,6 +3,12 @@ OSC Browser Synth
 
 An experiment in controlling a browser-based synth powered by the Web Audio API using Lemur, OSC and Node.js.
 
+More info
+---------
+
+- [Blog post](http://www.jacoscaz.com/there-s-a-lemur-playing-with-my-browser)
+- [Youtube video](https://www.youtube.com/watch?v=mEEocxZ2vOI)
+
 Usage
 -----
 
