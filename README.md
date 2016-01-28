@@ -7,7 +7,7 @@ More info
 ---------
 
 - [Blog post](http://www.jacoscaz.com/there-s-a-lemur-playing-with-my-browser)
-- [Youtube video](https://www.youtube.com/watch?v=mEEocxZ2vOI)
+- [Youtube video](https://www.youtube.com/watch?v=e2CMFGEon0U)
 
 Usage
 -----
